@@ -1,6 +1,6 @@
 # Prediction of Bitcoin Price
 
-This is a repository for the 2022 HackCambridge hackathon
+_This is a repository for the 2022 HackCambridge hackathon_
 
 Recently, the variety of assets that can be invested has skyrocketed, mainly in terms of Crypto. However, due to the extreme volatility of cryptocurrency, many investors end up liquidating and losing all their money. Therefore, the possible prediction on cryptocurrency has a huge impact both socially and commercially. 
 
